@@ -1,2 +1,2 @@
-# api-school-control-JAVA
-Repositório do Projeto de Sistema Escolar
+# Projeto-Cadastro-Escolar
+Repositório do projeto cadastro escolar desenvolvido na faculdade
